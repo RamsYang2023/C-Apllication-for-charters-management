@@ -1,0 +1,38 @@
+S:\CIS605\Yang,Gang (gangyang)\Assignments\Assignment 7\GYangProgram16\bin\Debug\netcoreapp3.1\GYangProgram16.exe
+S:\CIS605\Yang,Gang (gangyang)\Assignments\Assignment 7\GYangProgram16\bin\Debug\netcoreapp3.1\GYangProgram16.deps.json
+S:\CIS605\Yang,Gang (gangyang)\Assignments\Assignment 7\GYangProgram16\bin\Debug\netcoreapp3.1\GYangProgram16.runtimeconfig.json
+S:\CIS605\Yang,Gang (gangyang)\Assignments\Assignment 7\GYangProgram16\bin\Debug\netcoreapp3.1\GYangProgram16.runtimeconfig.dev.json
+S:\CIS605\Yang,Gang (gangyang)\Assignments\Assignment 7\GYangProgram16\bin\Debug\netcoreapp3.1\GYangProgram16.dll
+S:\CIS605\Yang,Gang (gangyang)\Assignments\Assignment 7\GYangProgram16\bin\Debug\netcoreapp3.1\GYangProgram16.pdb
+S:\CIS605\Yang,Gang (gangyang)\Assignments\Assignment 7\GYangProgram16\obj\Debug\netcoreapp3.1\GYangProgram16.csproj.AssemblyReference.cache
+S:\CIS605\Yang,Gang (gangyang)\Assignments\Assignment 7\GYangProgram16\obj\Debug\netcoreapp3.1\GYangProgram16.CharterManagerForm.resources
+S:\CIS605\Yang,Gang (gangyang)\Assignments\Assignment 7\GYangProgram16\obj\Debug\netcoreapp3.1\GYangProgram16.Form1.resources
+S:\CIS605\Yang,Gang (gangyang)\Assignments\Assignment 7\GYangProgram16\obj\Debug\netcoreapp3.1\GYangProgram16.csproj.GenerateResource.cache
+S:\CIS605\Yang,Gang (gangyang)\Assignments\Assignment 7\GYangProgram16\obj\Debug\netcoreapp3.1\GYangProgram16.GeneratedMSBuildEditorConfig.editorconfig
+S:\CIS605\Yang,Gang (gangyang)\Assignments\Assignment 7\GYangProgram16\obj\Debug\netcoreapp3.1\GYangProgram16.AssemblyInfoInputs.cache
+S:\CIS605\Yang,Gang (gangyang)\Assignments\Assignment 7\GYangProgram16\obj\Debug\netcoreapp3.1\GYangProgram16.AssemblyInfo.cs
+S:\CIS605\Yang,Gang (gangyang)\Assignments\Assignment 7\GYangProgram16\obj\Debug\netcoreapp3.1\GYangProgram16.csproj.CoreCompileInputs.cache
+S:\CIS605\Yang,Gang (gangyang)\Assignments\Assignment 7\GYangProgram16\obj\Debug\netcoreapp3.1\GYangProgram16.dll
+S:\CIS605\Yang,Gang (gangyang)\Assignments\Assignment 7\GYangProgram16\obj\Debug\netcoreapp3.1\GYangProgram16.pdb
+S:\CIS605\Yang,Gang (gangyang)\Assignments\Assignment 7\GYangProgram16\obj\Debug\netcoreapp3.1\GYangProgram16.genruntimeconfig.cache
+S:\CIS605\Yang,Gang (gangyang)\Assignments\Assignment 7\GYangProgram16\obj\Debug\netcoreapp3.1\GYangProgram16.AllCharterForm.resources
+S:\CIS605\Yang,Gang (gangyang)\Assignments\Assignment 7\GYangProgram16\obj\Debug\netcoreapp3.1\GYangProgram16.ChartersSummaryForm.resources
+C:\Gang Yang\Work\CSU-study privilege\2. Fall semester 2022\CIS 605 Business visual Application Development\All programs\Assignments\Assignment 7\GYangProgram16\bin\Debug\netcoreapp3.1\GYangProgram16.exe
+C:\Gang Yang\Work\CSU-study privilege\2. Fall semester 2022\CIS 605 Business visual Application Development\All programs\Assignments\Assignment 7\GYangProgram16\bin\Debug\netcoreapp3.1\GYangProgram16.deps.json
+C:\Gang Yang\Work\CSU-study privilege\2. Fall semester 2022\CIS 605 Business visual Application Development\All programs\Assignments\Assignment 7\GYangProgram16\bin\Debug\netcoreapp3.1\GYangProgram16.runtimeconfig.json
+C:\Gang Yang\Work\CSU-study privilege\2. Fall semester 2022\CIS 605 Business visual Application Development\All programs\Assignments\Assignment 7\GYangProgram16\bin\Debug\netcoreapp3.1\GYangProgram16.runtimeconfig.dev.json
+C:\Gang Yang\Work\CSU-study privilege\2. Fall semester 2022\CIS 605 Business visual Application Development\All programs\Assignments\Assignment 7\GYangProgram16\bin\Debug\netcoreapp3.1\GYangProgram16.dll
+C:\Gang Yang\Work\CSU-study privilege\2. Fall semester 2022\CIS 605 Business visual Application Development\All programs\Assignments\Assignment 7\GYangProgram16\bin\Debug\netcoreapp3.1\GYangProgram16.pdb
+C:\Gang Yang\Work\CSU-study privilege\2. Fall semester 2022\CIS 605 Business visual Application Development\All programs\Assignments\Assignment 7\GYangProgram16\obj\Debug\netcoreapp3.1\GYangProgram16.csproj.AssemblyReference.cache
+C:\Gang Yang\Work\CSU-study privilege\2. Fall semester 2022\CIS 605 Business visual Application Development\All programs\Assignments\Assignment 7\GYangProgram16\obj\Debug\netcoreapp3.1\GYangProgram16.AllCharterForm.resources
+C:\Gang Yang\Work\CSU-study privilege\2. Fall semester 2022\CIS 605 Business visual Application Development\All programs\Assignments\Assignment 7\GYangProgram16\obj\Debug\netcoreapp3.1\GYangProgram16.CharterManagerForm.resources
+C:\Gang Yang\Work\CSU-study privilege\2. Fall semester 2022\CIS 605 Business visual Application Development\All programs\Assignments\Assignment 7\GYangProgram16\obj\Debug\netcoreapp3.1\GYangProgram16.ChartersSummaryForm.resources
+C:\Gang Yang\Work\CSU-study privilege\2. Fall semester 2022\CIS 605 Business visual Application Development\All programs\Assignments\Assignment 7\GYangProgram16\obj\Debug\netcoreapp3.1\GYangProgram16.Form1.resources
+C:\Gang Yang\Work\CSU-study privilege\2. Fall semester 2022\CIS 605 Business visual Application Development\All programs\Assignments\Assignment 7\GYangProgram16\obj\Debug\netcoreapp3.1\GYangProgram16.csproj.GenerateResource.cache
+C:\Gang Yang\Work\CSU-study privilege\2. Fall semester 2022\CIS 605 Business visual Application Development\All programs\Assignments\Assignment 7\GYangProgram16\obj\Debug\netcoreapp3.1\GYangProgram16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gang Yang\Work\CSU-study privilege\2. Fall semester 2022\CIS 605 Business visual Application Development\All programs\Assignments\Assignment 7\GYangProgram16\obj\Debug\netcoreapp3.1\GYangProgram16.AssemblyInfoInputs.cache
+C:\Gang Yang\Work\CSU-study privilege\2. Fall semester 2022\CIS 605 Business visual Application Development\All programs\Assignments\Assignment 7\GYangProgram16\obj\Debug\netcoreapp3.1\GYangProgram16.AssemblyInfo.cs
+C:\Gang Yang\Work\CSU-study privilege\2. Fall semester 2022\CIS 605 Business visual Application Development\All programs\Assignments\Assignment 7\GYangProgram16\obj\Debug\netcoreapp3.1\GYangProgram16.csproj.CoreCompileInputs.cache
+C:\Gang Yang\Work\CSU-study privilege\2. Fall semester 2022\CIS 605 Business visual Application Development\All programs\Assignments\Assignment 7\GYangProgram16\obj\Debug\netcoreapp3.1\GYangProgram16.dll
+C:\Gang Yang\Work\CSU-study privilege\2. Fall semester 2022\CIS 605 Business visual Application Development\All programs\Assignments\Assignment 7\GYangProgram16\obj\Debug\netcoreapp3.1\GYangProgram16.pdb
+C:\Gang Yang\Work\CSU-study privilege\2. Fall semester 2022\CIS 605 Business visual Application Development\All programs\Assignments\Assignment 7\GYangProgram16\obj\Debug\netcoreapp3.1\GYangProgram16.genruntimeconfig.cache
